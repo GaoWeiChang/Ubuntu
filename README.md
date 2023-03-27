@@ -7,7 +7,10 @@
   thaksin5@LAPTOP-9JB425LQ:/mnt/c/Users/CHANG$ sudo su
   root@LAPTOP-9JB425LQ:/mnt/c/Users/CHANG#
   ```
-  
+## Check Ubuntu version
+```
+cat /etc/lsb-release
+```
 ##  libxcb-xinerama.so.0 missing
 
   ```
